@@ -28,13 +28,18 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Class::Inspector allows you to get information about a loaded class.
 Most or all of this information can be found in other ways, but they
-arn't always very friendly, and usually involve a relatively high
+aren't always very friendly, and usually involve a relatively high
 level of Perl wizardry, or strange and unusual looking code.
 Class::Inspector attempts to provide an easier, more friendly
 interface to this information.
 
-# %description -l pl
-# TODO
+%description -l pl
+Class::Inspector umo¿liwia pobieranie informacji o za³adowanych
+klasach. Wiêkszo¶æ z tych informacji mo¿na znale¼æ na inne sposoby,
+ale nie zawsze s± one przyjazne i zwykle wymagaj± dosyæ du¿ej
+znajomo¶ci perlowej magii lub dziwnego i niezwykle wygl±daj±cego kodu.
+Class::Inspector próbuje dostarczyæ ³atwiejszy, bardziej przyjazny
+interfejs do tych informacji.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
