@@ -5,8 +5,8 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	Class
 %define	pnam	Inspector
-Summary:	Class::Inspector - Provides information about classes
-Summary(pl):	Class::Inspector - Dostarcza informacji o klasach
+Summary:	Class::Inspector - provides information about classes
+Summary(pl):	Class::Inspector - dostarczenie informacji o klasach
 Name:		perl-Class-Inspector
 Version:	1.06
 Release:	1
