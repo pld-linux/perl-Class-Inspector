@@ -9,7 +9,7 @@ Summary:	Class::Inspector - provides information about classes
 Summary(pl):	Class::Inspector - dostarczenie informacji o klasach
 Name:		perl-Class-Inspector
 Version:	1.16
-Release:	0.1
+Release:	0.2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
