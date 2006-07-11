@@ -14,7 +14,7 @@ Release:	0.2
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	8ac6268acc663513befbdd60b53c21d8
+# Source0-md5:	46eeeeb5a5df0da03f4e53229f7ed360
 URL:		http://search.cpan.org/dist/Class-Imspector/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
