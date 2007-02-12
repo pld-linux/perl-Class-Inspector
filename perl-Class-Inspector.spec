@@ -6,7 +6,7 @@
 %define		pdir	Class
 %define		pnam	Inspector
 Summary:	Class::Inspector - provides information about classes
-Summary(pl):	Class::Inspector - dostarczenie informacji o klasach
+Summary(pl.UTF-8):   Class::Inspector - dostarczenie informacji o klasach
 Name:		perl-Class-Inspector
 Version:	1.16
 Release:	1
@@ -33,12 +33,12 @@ level of Perl wizardry, or strange and unusual looking code.
 Class::Inspector attempts to provide an easier, more friendly
 interface to this information.
 
-%description -l pl
-Class::Inspector umo¿liwia pobieranie informacji o za³adowanych
-klasach. Wiêkszo¶æ z tych informacji mo¿na znale¼æ na inne sposoby,
-ale nie zawsze s± one przyjazne i zwykle wymagaj± dosyæ du¿ej
-znajomo¶ci perlowej magii lub dziwnego i niezwykle wygl±daj±cego kodu.
-Class::Inspector próbuje dostarczyæ ³atwiejszy, bardziej przyjazny
+%description -l pl.UTF-8
+Class::Inspector umoÅ¼liwia pobieranie informacji o zaÅ‚adowanych
+klasach. WiÄ™kszoÅ›Ä‡ z tych informacji moÅ¼na znaleÅºÄ‡ na inne sposoby,
+ale nie zawsze sÄ… one przyjazne i zwykle wymagajÄ… dosyÄ‡ duÅ¼ej
+znajomoÅ›ci perlowej magii lub dziwnego i niezwykle wyglÄ…dajÄ…cego kodu.
+Class::Inspector prÃ³buje dostarczyÄ‡ Å‚atwiejszy, bardziej przyjazny
 interfejs do tych informacji.
 
 %prep
