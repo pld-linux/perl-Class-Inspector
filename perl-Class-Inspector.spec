@@ -8,13 +8,13 @@
 Summary:	Class::Inspector - provides information about classes
 Summary(pl.UTF-8):	Class::Inspector - dostarczenie informacji o klasach
 Name:		perl-Class-Inspector
-Version:	1.32
+Version:	1.36
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Class/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	db471d6ecf47fa054726553319b7c34f
+# Source0-md5:	084c3aeec023639d21ecbaf7d4460b21
 URL:		http://metacpan.org/release/Class-Inspector
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
